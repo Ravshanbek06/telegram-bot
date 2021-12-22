@@ -1,0 +1,22 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Ravshanbek06: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@github.com/Ravshanbek06/telegram-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ravshanbek06/telegram-bot/issues"
+  },
+  "homepage": "https://github.com/Ravshanbek06/telegram-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.56.0"
+  }
+}
